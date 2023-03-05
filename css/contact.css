@@ -1,0 +1,37 @@
+.contact_form {
+    border-collapse: collapse;
+}
+
+.contact_form tr{
+    height: 7rem;
+}
+
+
+.contact_form th{
+    width: 150px;
+    text-align: right;
+}
+
+.contact_form td{
+    width: 480px;
+    padding-left: 10px;
+}
+
+.contact_form .text {
+    width: 100%;
+}
+
+.submit_btn {
+    text-align: center;
+}
+
+.submit_btn input {
+    color: #fff;
+    font-size: 3rem;
+    background-color: #008B8B;
+    padding: 10px;
+}
+
+.submit_btn :hover{
+    opacity: 0.6;
+}
